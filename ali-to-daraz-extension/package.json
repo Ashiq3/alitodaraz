@@ -1,21 +1,42 @@
 {
-  "name": "@Ashiq3/ali-to-daraz-extension",
+  "name": "@ashiq3/ali-to-daraz-extension",
   "private": false,
   "version": "1.0.0",
   "type": "module",
-  "description": "A Chrome extension to compare prices between Alibaba and Daraz Bangladesh using visual search.",
+  "description": "Chrome extension for dropshippers to compare Alibaba wholesale prices with Daraz Bangladesh retail prices using Visual Search AI technology",
   "keywords": [
+    "chrome-extension",
     "alibaba",
     "daraz",
-    "daraz-bd",
-    "price-comparison",
+    "bangladesh",
     "dropshipping",
-    "chrome-extension",
+    "price-comparison",
     "visual-search",
-    "sourcing",
-    "e-commerce",
-    "bangladesh"
+    "ecommerce",
+    "product-scraper",
+    "arbitrage",
+    "browser-extension",
+    "aliexpress",
+    "google-lens",
+    "price-tracker",
+    "wholesale",
+    "b2b",
+    "online-shopping",
+    "bangladesh-ecommerce"
   ],
+  "homepage": "https://github.com/Ashiq3/alitodaraz",
+  "bugs": {
+    "url": "https://github.com/Ashiq3/alitodaraz/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashiq3/alitodaraz.git"
+  },
+  "author": {
+    "name": "Ashiqe Bin Rahman",
+    "url": "https://github.com/Ashiq3"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -26,10 +47,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ashiq3/alitodaraz.git"
   },
   "dependencies": {
     "react": "^18.3.1",

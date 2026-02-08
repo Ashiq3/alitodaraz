@@ -1,0 +1,39 @@
+# SEO Meta Tags for GitHub
+# Add this to your GitHub repository description and topics
+
+# Repository Description (160 characters max):
+Chrome extension for dropshippers to compare Alibaba wholesale prices with Daraz Bangladesh retail prices using Visual Search AI
+
+# Topics (up to 20):
+chrome-extension
+alibaba
+daraz
+bangladesh
+dropshipping
+price-comparison
+visual-search
+ecommerce
+browser-extension
+product-search
+google-lens
+price-tracker
+wholesale
+aliexpress
+online-shopping
+bangladesh-ecommerce
+arbitrage-tool
+react-extension
+manifest-v3
+open-source
+
+# Release Tags:
+v1.0.0
+initial-release
+chrome-extension
+price-comparison
+bangladesh
+
+# Keywords for SEO:
+Primary: alibaba daraz price comparison, chrome extension bangladesh, dropshipping tool
+Secondary: visual search ecommerce, daraz bangladesh product search, alibaba wholesale checker
+Long-tail: how to compare alibaba and daraz prices, best dropshipping extension bangladesh

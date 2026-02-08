@@ -1,0 +1,39 @@
+# GitHub Topics Setup
+
+## Copy and paste these topics into your GitHub repository:
+
+chrome-extension
+alibaba
+daraz
+bangladesh
+dropshipping
+price-comparison
+visual-search
+ecommerce
+browser-extension
+product-search
+google-lens
+
+---
+
+## How to add:
+1. Go to: https://github.com/Ashiq3/alitodaraz
+2. Click the ⚙️ gear icon next to "About"
+3. In the "Topics" field, paste the topics above (one per line)
+4. Click "Save changes"
+
+---
+
+## Repository Description to Use:
+
+Chrome extension for dropshippers to compare Alibaba wholesale prices with Daraz Bangladesh retail prices using Visual Search AI
+
+---
+
+## Repository Website URL (optional):
+
+https://github.com/Ashiq3/alitodaraz
+
+---
+
+Done! This will significantly improve your SEO visibility. 🚀
